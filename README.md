@@ -16,6 +16,7 @@ Collaborative filtering also uses user behavior in addition to product attribute
 This method has 2 approaches one is user based & another one is item based approach.
 
 Conclusion:
+
 The dataset very highly sparse model.
 After taking subset of the data it looks like less items are available so getting very high RMSE value
 After taking the subset of data, datset has become unfit for mostly item based recommendation system
