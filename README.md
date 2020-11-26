@@ -11,6 +11,7 @@ Source - Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/)  The reposi
 Dataset columns - first three columns are userId, productId, and ratings and the fourth column is timestamp. You can discard the timestamp column as in this case you may not need to use it.
 
 Project details:
+
 I have to used collaborative filtering model instead content based filtering works on basis of product/ item attributes. 
 Collaborative filtering also uses user behavior in addition to product attributes. 
 This method has 2 approaches one is user based & another one is item based approach.
